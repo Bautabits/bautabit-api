@@ -1,4 +1,4 @@
 bautabit-api
 ============
 
-Test
+This is the Bautabit REST API.
